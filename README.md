@@ -97,6 +97,7 @@
 ## 🌟 Projekte
 
 - **Datenplattform Aufbau bei Denner AG**: SAP S4 Hana zu Azure Migration, Implementierung von PowerBI Dokumentationslösung
+- **Implementierung einer Market Basket Analyse in PowerBI als Prototyping bei Denner AG**
 - **Customer Signatur bei Bürkert**: Aufbau des SSRS Portals, Erstellung von SSRS Berichten zur Rabattstruktur-Analyse, Sales Daten in SSRS, Datenlieferung für Produktkonfiguatoren 
 - **Produktionsdaten Cube bei Bürkert**: Entwicklung und Bereitstellung von Produktionsdaten in DeltaMaster
 
