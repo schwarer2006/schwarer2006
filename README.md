@@ -2,7 +2,7 @@
 
 # 👨‍💻 Erik Schwarz
 
-### 📊 DevOps Business Intelligence Engineer
+### 📊 DevOps Business Intelligence Engineer 
 
 ---
 
@@ -12,7 +12,6 @@
 - **LinkedIn:** [Erik Schwarz](https://www.linkedin.com/in/erik-schwarz/)
 
 ---
-
 ## 🛠️ Technische Fähigkeiten
 
 ### Datenbanken und Business Intelligence
