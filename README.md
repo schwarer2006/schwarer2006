@@ -18,7 +18,7 @@
 - **SQL Server (2008-2019)**: T-SQL, SSIS, SSRS, SSAS, Datenmodellierung, ETL-Prozesse
 - **PowerBI**: Entwicklung von Berichten und Dashboards
 - **Theobald Extraktoren**: SAP S4 Hana zu Azure Integration
-- **WhereScape**: Datenmodellierung und ETL
+- **WhereScape**: Datenanbindung, Datenmodellierung und ETL, Jobs 
 - **DeltaMaster**: BI-Lösungen und Cubes
 
 ### Programmiersprachen
