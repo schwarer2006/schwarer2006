@@ -15,7 +15,7 @@
 ## 🛠️ Technische Fähigkeiten
 
 ### Datenbanken und Business Intelligence
-- **SQL Server (2008-2019)**: T-SQL, SSIS, SSRS, SSAS, Datenmodellierung, ETL-Prozesse
+- **SQL Server (2008-2019)**: T-SQL, SSIS, SSRS, SSAS, Datenmodellierung, ETL-Prozesse, Stored Procedure
 - **PowerBI**: Entwicklung von Berichten und Dashboards
 - **Theobald Extraktoren**: SAP S4 Hana zu Azure Integration
 - **WhereScape**: Datenanbindung, Datenmodellierung und ETL, Jobs 
