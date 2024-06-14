@@ -24,7 +24,7 @@
 ### Programmiersprachen
 - **Python**: Datenanalyse und -verarbeitung
 - **HTML**: Webentwicklung
-- **R**: Datenanalyse und -verarbeitung 
+- **R** & **Shine**: Datenanalyse und Darstellung als Webseite 
 
 ### Datenvisualisierung
 - **Tableau**: Datenanalyse und Visualisierungen
