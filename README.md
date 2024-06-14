@@ -67,13 +67,13 @@
 
 ### Tankstellensupport GmbH, Köln (Sep 2013 - Aug 2016)
 **Configuration Management Database & Applications**
-- Anpassung und Verwaltung von Anwendungen
+- Anpassung und Verwaltung von Anwendungen 
 - Durchführung von ETL-Ladeprozessen
 
 ### Tankstellensupport GmbH, Köln (Sep 1999 - Aug 2013)
 **Mehrsprachiger Technischer Support**
-- Technischer Support in mehreren Sprachen
-- Incident Management und Kundenbetreuung
+- Technischer Support in mehreren Sprachen Kassensysteme, Kartenzahlungsterminals, Trainings, Dokumentationen 
+- Incident Management und Kundenbetreuung , 
 
 ---
 
