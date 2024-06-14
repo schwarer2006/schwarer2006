@@ -104,12 +104,42 @@
 
 ## 🏅 Top Skills
 
-- **Datenanalyse**: SQL, Python, Power BI
-- **Datenintegration**: ETL-Prozesse, Theobald Extraktoren
-- **Datenmodellierung**: WhereScape, Datenbankdesign
-- **Datenvisualisierung**: Tableau, DeltaMaster
-- **Projektmanagement**: Scrum, ITIL
+### Programmiersprachen und Tools
+- **Python**: Programmierung, Datenanalyse, Datenverarbeitung, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras
+- **SQL**: T-SQL, SQL Server 2008R2-2019, SQL Server Management Studio (SSMS), RedGate Tools, 
+- **BI Tools**: Power BI, SSRS (SQL Server Reporting Services), SSAS (SQL Server Analysis Services), SSIS (SQL Server Integration Services), Tableau, DeltaMaster
+- **Datenmodellierung**: Data Warehouse, Datenbankdesign, Datenvisualisierung, ETL-Prozesse, Datenaufbereitung
+- **Web-Technologien**: HTML, Theobald Extraktoren
+- **Scripting**: PowerShell, Batch Programmierung
 
+### Datenanalyse und -verarbeitung
+- **Datenbanken**: SQL Server, Oracle, Azure SQL Database, PostgreSQL
+- **BI & Planungs Tools**: Power BI, SSRS, SSAS, Tableau, DeltaMaster, Tagetik 
+- **Datenverarbeitung**: ETL-Prozesse, Datenmigration, Datenintegration, Datenbereinigung, 
+- **Datenvisualisierung**: Dashboards, Berichte, Diagramme, interaktive Visualisierungen
+
+### Cloud-Technologien
+- **Azure**: Azure SQL Database, Azure Analysis Services, Azure Functions, Azure Storage, Azure Virtual Machines, Azure Active Directory, Azure Kubernetes Service, Azure DevOps
+
+### Projektmanagement und Methodologien
+- **Agile Methoden**: Scrum, Kanban, Lean-Agile-Prinzipien, Sprint-Planung, Daily Standups, Retrospektiven
+- **ITIL**: IT-Service-Management, Incident-Management, Problem-Management, Change-Management
+- **Projektmanagement**: Projektplanung, Risikomanagement, Ressourcenmanagement, Stakeholder-Management
+
+### Soft Skills
+- **Teamarbeit**: Zusammenarbeit mit verschiedenen Fachbereichen, Teamführung, Konfliktmanagement, interkulturelle Kompetenz
+- **Kommunikation**: Präsentationsfähigkeiten, Kundenorientierung, effektive Kommunikation in mündlicher und schriftlicher Form
+- **Problemlösungsfähigkeit**: Analytisches Denken, Entscheidungsfindung, Flexibilität, Stressresistenz
+
+### Zertifizierungen
+- **Microsoft BI Stack**: SQL, SSAS, SSIS, SSRS
+- **DeltaMaster / Bissantz**: OLAP / MDX Kurs / ETL 
+- **SQL Server**: Analytisches T-SQL, SQL Developer
+- **Datenanalyse**: PowerBI, EXASOL, Postgres, Python, Knime 
+- **ITIL V3**
+
+### Nutzung KI Tools 
+- **KI Tools** : ChatGPT, Google Gemini 
 ---
 
 ## 🌐 Sprachen
