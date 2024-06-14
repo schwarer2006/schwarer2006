@@ -10,9 +10,7 @@ Hier ist ein Entwurf für eine GitHub-Profilseite (README) basierend auf deinem 
 
 ## 📫 Kontakt
 
-- **Adresse:** Furtweg 9, 8248 Uhwiesen, Schweiz
-- **Telefon:** +41765316148
-- **E-Mail:** schwarer@gmail.com
+- **E-Mail:** schwarer (@) gmail. com
 - **LinkedIn:** [Erik Schwarz](https://www.linkedin.com/in/erik-schwarz/)
 
 ---
