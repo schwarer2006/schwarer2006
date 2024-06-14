@@ -162,5 +162,6 @@
 
 Vielen Dank, dass Sie mein Profil besucht haben! Wenn Sie an einer Zusammenarbeit interessiert sind oder Fragen haben, zögern Sie nicht, mich zu kontaktieren.
 
+[![Schwarz Erik GitHub stats](https://github-readme-stats.vercel.app/api?username=schwarer2006)](https://github.com/schwarer2006/github-readme-stats)
 ---
 
