@@ -91,6 +91,7 @@
 - **ITIL V3 Zertifizierung**
 - **PowerBI Onlinetraining**
 - **SQL Developer GFU**
+- **GIT Schulung mit Zertifikat**
 
 ---
 
