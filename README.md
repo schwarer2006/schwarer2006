@@ -24,6 +24,7 @@
 ### Programmiersprachen
 - **Python**: Datenanalyse und -verarbeitung
 - **HTML**: Webentwicklung
+- **R**: Datenanalyse und -verarbeitung 
 
 ### Datenvisualisierung
 - **Tableau**: Datenanalyse und Visualisierungen
@@ -74,9 +75,7 @@
 **Mehrsprachiger Technischer Support**
 - Technischer Support in mehreren Sprachen Kassensysteme, Kartenzahlungsterminals, Trainings, Dokumentationen 
 - Incident Management und Kundenbetreuung , 
-
 ---
-
 ## 🎓 Ausbildung
 
 - **PC Anwender Fachmann**, Comdat Institut für Computerschulung, Trier, Deutschland (Jun 1997 - Mar 1999)
