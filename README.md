@@ -2,7 +2,7 @@
 
 # 👨‍💻 Erik Schwarz
 
-### 📊 DevOps Business Intelligence Engineer 
+### 📊 Wirtschaftsinformatiker Bereich DevOps &  Business Intelligence
 
 ---
 
