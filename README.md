@@ -38,7 +38,7 @@
 - **BMC ARS Remedy**: Incident- und Problemmanagement
 - **ITIL V3**: IT-Service-Management
 - **CMDB**: Configuration Management Database
-- **Git**: Versionskontrolle und Zusammenarbeit
+- **GIT** & **SVN**: Versionskontrolle und Zusammenarbeit
 
 ---
 
