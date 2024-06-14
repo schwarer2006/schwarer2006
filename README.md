@@ -64,7 +64,7 @@
 **Zentrales Reporting & Datawarehouse**
 - Analyse von Geschäftskennzahlen (KPI)
 - Ad-Hoc Datenanalysen und Berichte
-- Datenschutzrichtlinien gemäß BSI
+- Personenbezogene Datenauswertungen Datenschutzrichtlinien gemäß BSI & DSGVO 
 
 ### Tankstellensupport GmbH, Köln (Sep 2013 - Aug 2016)
 **Configuration Management Database & Applications**
