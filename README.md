@@ -1,5 +1,3 @@
-Hier ist ein Entwurf für eine GitHub-Profilseite (README) basierend auf deinem Lebenslauf und deinen Fähigkeiten:
-
 ---
 
 # 👨‍💻 Erik Schwarz
@@ -136,4 +134,3 @@ Vielen Dank, dass Sie mein Profil besucht haben! Wenn Sie an einer Zusammenarbei
 
 ---
 
-Dieser Entwurf kann direkt als README.md Datei in dein GitHub-Profil eingefügt werden. Passe es nach Bedarf an!
