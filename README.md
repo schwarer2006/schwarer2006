@@ -2,7 +2,7 @@
 
 # 👨‍💻 Erik Schwarz
 
-### 📊 Wirtschaftsinformatiker Bereich DevOps &  Business Intelligence
+### 📊 Bereich DevOps &  Business Intelligence
 
 ---
 
