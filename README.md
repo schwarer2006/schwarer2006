@@ -46,6 +46,9 @@
 
 ## 📚 Berufserfahrung
 
+### Arbeitssuchend aktuell (Ab Jan 2024 )
+**DevOps Business Intelligence Engineer / Data Engineer**
+
 ### Denner AG, Zürich (Jan 2023 - Dez 2023)
 **DevOps Business Intelligence Engineer**
 - Integration von Datenanalysen in Anwendungen
