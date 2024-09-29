@@ -102,7 +102,8 @@
 
 - **Datenplattform Aufbau bei Denner AG**: SAP S4 Hana zu Azure Migration, Implementierung von PowerBI Dokumentationslösung
 - **Implementierung einer Market Basket Analyse in PowerBI als Prototyping bei Denner AG**
-- **Customer Signatur bei Bürkert**: Aufbau des SSRS Portals, Erstellung von SSRS Berichten zur Rabattstruktur-Analyse, Sales Daten in SSRS, Datenlieferung für Produktkonfiguatoren 
+- **Customer Signatur bei Bürkert**: Aufbau des SSRS Portals, Erstellung von SSRS Berichten zur Rabattstruktur-Analyse, Sales Daten in SSRS, Datenlieferung für Produktkonfiguatoren
+- **Rabattauswertung** Erstellung einer analytischen Rabattauswertung der Salesorganisationen für den Pricing Bereich 
 - **Produktionsdaten Cube bei Bürkert**: Entwicklung und Bereitstellung von Produktionsdaten in DeltaMaster
 
 ---
@@ -118,7 +119,7 @@
 - **Scripting**: PowerShell, Batch Programmierung
 
 ### Datenanalyse und -verarbeitung
-- **Datenbanken**: SQL Server, Oracle, Azure SQL Database, PostgreSQL
+- **Datenbanken**: SQL Server, Oracle, Azure SQL Database, PostgreSQL, 
 - **BI & Planungs Tools**: Power BI, SSRS, SSAS, Tableau, DeltaMaster, Tagetik 
 - **Datenverarbeitung**: ETL-Prozesse, Datenmigration, Datenintegration, Datenbereinigung, 
 - **Datenvisualisierung**: Dashboards, Berichte, Diagramme, interaktive Visualisierungen
