@@ -138,10 +138,13 @@
 - **DeltaMaster / Bissantz**: OLAP / MDX Kurs / ETL 
 - **SQL Server**: Analytisches T-SQL, SQL Developer
 - **Datenanalyse**: PowerBI, EXASOL, Postgres, Python, Knime 
-- **ITIL V3**
-
+- **ITIL V3**  ITIL Zertifizierung 
+- **GIT/SVN**: Zertifikat GIT
+- 
 ### Nutzung KI Tools 
-- **KI Tools** : ChatGPT, Google Gemini 
+- **KI Tools**: ChatGPT, Google Gemini , eigene GPT's erstellt , Google Gems erstellt
+
+  
 ---
 
 ## 🌐 Sprachen
