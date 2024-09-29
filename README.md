@@ -157,7 +157,7 @@
 - **Kunst**: Zeichnen und abstraktes Malen mit Acryl
 - **Familie**: Zeit mit der Familie, Ausflüge, Brettspiele, Kino
 - **Lesen**: Fachbücher, Krimis
-
+- **GIN**: Gin Creatuer immer auf der Suche nach Botanicals für den perfekten GIN 
 ---
 
 Vielen Dank, dass Sie mein Profil besucht haben! Wenn Sie an einer Zusammenarbeit interessiert sind oder Fragen haben, zögern Sie nicht, mich zu kontaktieren.
