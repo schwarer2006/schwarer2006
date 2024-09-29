@@ -10,7 +10,7 @@
 
 - **E-Mail:** schwarer (@) gmail. com
 - **LinkedIn:** [Erik Schwarz](https://www.linkedin.com/in/erik-schwarz/)
-- **WebSite**: cv.erik-schwarz.ch 
+- **WebSite**: CV Erik Schwarz Online (https://cv.erik-schwarz.ch) 
 
 ---
 ## 🛠️ Technische Fähigkeiten
