@@ -22,6 +22,7 @@
 - **Theobald Extraktoren**: SAP S4 Hana zu Azure Integration
 - **WhereScape**: Datenanbindung, Datenmodellierung und ETL, Jobs 
 - **DeltaMaster**: BI-Lösungen und Cubes
+- **DuckDB**: Nutzen von DuckDB in einem privaten Datenprojekt 
 
 ### Programmiersprachen
 - **Python**: Datenanalyse und -verarbeitung
