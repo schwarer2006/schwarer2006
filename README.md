@@ -3,6 +3,7 @@
 # 👨‍💻 Erik Schwarz
 
 ### 📊 Bereich DevOps &  Business Intelligence
+🚀 Business Intelligence Developer | 🔧 DevOps Business Intelligence Engineer | 📊 Data Enthusiast | 💾 SQL Server Junkie | 🤖 KI Enthusiast | 🦆 DuckDB & Python Fan
 
 ---
 
