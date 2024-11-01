@@ -31,6 +31,8 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Exasol](https://img.shields.io/badge/Exasol-47A248?style=for-the-badge&logo=exasol&logoColor=white)
+
 
 
 ### Datenbanken und Business Intelligence
