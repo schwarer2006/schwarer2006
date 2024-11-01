@@ -35,7 +35,11 @@
 ![OLAP](https://img.shields.io/badge/OLAP-FF6347?style=for-the-badge&logo=cube&logoColor=white)
 ![Theobald](https://img.shields.io/badge/Theobald-0078D4?style=for-the-badge&logo=powerbi&logoColor=white)
 ![WhereScape](https://img.shields.io/badge/WhereScape-FF0000?style=for-the-badge&logo=databricks&logoColor=white)
-
+![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-34A853?style=for-the-badge&logo=google&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 
 ### Datenbanken und Business Intelligence
