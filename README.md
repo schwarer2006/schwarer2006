@@ -41,6 +41,11 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Tagetik](https://img.shields.io/badge/Tagetik-0052CC?style=for-the-badge&logo=cch&logoColor=white)
+![Tableau Public](https://img.shields.io/badge/Tableau%20Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![KNIME](https://img.shields.io/badge/KNIME-FFCC00?style=for-the-badge&logo=knime&logoColor=black)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 
 
 
