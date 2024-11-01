@@ -109,7 +109,14 @@
 - **Produktionsdaten Cube bei Bürkert**: Entwicklung und Bereitstellung von Produktionsdaten in DeltaMaster
 
 ---
-
+![DuckDB](https://img.shields.io/badge/DuckDB-FFD700?style=for-the-badge&logo=duckdb&logoColor=black)
+![SSIS](https://img.shields.io/badge/SSIS-00234B?style=for-the-badge&logo=microsoft&logoColor=white)
+![SSRS](https://img.shields.io/badge/SSRS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![SSAS](https://img.shields.io/badge/SSAS-001489?style=for-the-badge&logo=microsoft&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-FF6D00?style=for-the-badge&logo=databricks&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Parquet](https://img.shields.io/badge/Parquet-4CAF50?style=for-the-badge&logo=apache&logoColor=white)
+![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-217346?style=for-the-badge&logo=databricks&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
