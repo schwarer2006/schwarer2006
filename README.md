@@ -33,7 +33,8 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Exasol](https://img.shields.io/badge/Exasol-47A248?style=for-the-badge&logo=exasol&logoColor=white)
 ![OLAP](https://img.shields.io/badge/OLAP-FF6347?style=for-the-badge&logo=cube&logoColor=white)
-
+![Theobald](https://img.shields.io/badge/Theobald-0078D4?style=for-the-badge&logo=powerbi&logoColor=white)
+![WhereScape](https://img.shields.io/badge/WhereScape-FF0000?style=for-the-badge&logo=databricks&logoColor=white)
 
 
 
