@@ -45,6 +45,8 @@
 ![KNIME](https://img.shields.io/badge/KNIME-FFCC00?style=for-the-badge&logo=knime&logoColor=black)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Pivot Table](https://img.shields.io/badge/Pivot%20Table-4CAF50?style=for-the-badge&logo=tableau&logoColor=white)
+
 
 
 
