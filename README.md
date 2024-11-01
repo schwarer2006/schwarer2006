@@ -48,6 +48,12 @@
 ![Pivot Table](https://img.shields.io/badge/Pivot%20Table-4CAF50?style=for-the-badge&logo=tableau&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![BMC ARS Remedy](https://img.shields.io/badge/BMC%20ARS%20Remedy-F05032?style=for-the-badge&logo=bmcsoftware&logoColor=white)
+![ITIL V3](https://img.shields.io/badge/ITIL%20V3-652D90?style=for-the-badge&logo=itil&logoColor=white)
+![CMDB](https://img.shields.io/badge/CMDB-2E8B57?style=for-the-badge&logo=databricks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SVN](https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
+
 
 
 
