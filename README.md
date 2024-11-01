@@ -27,6 +27,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Masterdata](https://img.shields.io/badge/Masterdata-4B0082?style=for-the-badge&logo=databricks&logoColor=white)
+
 
 ### Datenbanken und Business Intelligence
 - **SQL Server (2008-2019)**: T-SQL, SSIS, SSRS, SSAS, Datenmodellierung, ETL-Prozesse, Stored Procedure
