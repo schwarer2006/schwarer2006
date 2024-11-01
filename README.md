@@ -40,6 +40,8 @@
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-34A853?style=for-the-badge&logo=google&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Tagetik](https://img.shields.io/badge/Tagetik-0052CC?style=for-the-badge&logo=cch&logoColor=white)
+
 
 
 ### Datenbanken und Business Intelligence
