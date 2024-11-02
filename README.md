@@ -64,13 +64,7 @@
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![MS-DOS](https://img.shields.io/badge/MS--DOS-000000?style=for-the-badge&logo=msdos&logoColor=white)
 ![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=leaflet&logoColor=white)
-
-
-
-
-
-
-
+![CSV](https://img.shields.io/badge/CSV-333333?style=for-the-badge&logo=csv&logoColor=white)
 
 
 ### Datenbanken und Business Intelligence
