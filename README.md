@@ -12,7 +12,7 @@
 - **E-Mail:** schwarer (@) gmail. com
 - **LinkedIn:** [Erik Schwarz](https://www.linkedin.com/in/erik-schwarz/)
 - **WebSite**: CV Erik Schwarz Online (https://cv.erik-schwarz.ch)
-- **Blog **: Blog SQL  "Code & Queries: Your Source for SQL, Python, and AI Insights"  (https://blog.erik-schwarz.ch)
+- **Blog**: "Code & Queries: Your Source for SQL, Python, and AI Insights"  (https://blog.erik-schwarz.ch)
 
 ---
 ## 🛠️ Technische Fähigkeiten
