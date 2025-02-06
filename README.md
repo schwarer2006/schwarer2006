@@ -95,6 +95,7 @@
 - **ITIL V3**: IT-Service-Management
 - **CMDB**: Configuration Management Database
 - **GIT** & **SVN**: Versionskontrolle und Zusammenarbeit
+- **Tagetik** : Planungs & Reportingsoftware 
 
 ---
 
