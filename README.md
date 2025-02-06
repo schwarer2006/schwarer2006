@@ -99,8 +99,34 @@
 
 ## 📚 Berufserfahrung
 
-### Arbeitssuchend aktuell (Ab Jan 2024 )
+### Weiterbildung / Sabbatical  aktuell (Ab Jan 2024 )
 **DevOps Business Intelligence Engineer / Data Engineer**
+
+- **DuckDB**: Vertiefung in Datenbankverwaltung und -optimierung
+- **Erstellung eines LoadBalancers und Performance Optimizer** für DuckDB auf Basis Python Scripting
+- **Konzeption und Aufbau eines lokalen Serverless Datawarehouse** mit über 280 Mio Zeilen Bewegtdaten (Pricingdaten) auf einem Windows Server 2019
+- **Fernstudium**: Abschluss 2025 als "Geprüfter Datenschutzbeauftragter (TÜV Nord)"
+- **Python-Programmierung**: Fokus auf Datenanalyse und Automatisierung
+- **Datenauswertung**: Methoden zur effektiven Analyse und Interpretation großer Datensätze
+- **Einarbeitung in KI-Themen**, beispielsweise die Erstellung eines Chatbots auf Flowise und Node.JS Basis mit Daten und einem CV-Bewertungstool
+
+**Kenntnisse**:  
+- DuckDB  
+- Datenbankdesign  
+- Datenarchitektur  
+- Datenmodellierung  
+- Python  
+- Parquet Files  
+- Serverless DataWarehouse  
+- Datenschutzthemen  
+- Datenauswertung  
+- Datenvisualisierung  
+- KI Themen  
+- Flowise  
+- Chatbots  
+- SQL Server 2019  
+- Windows Server 2019
+
 
 ### Denner AG, Zürich (Jan 2023 - Dez 2023)
 **DevOps Business Intelligence Engineer**
