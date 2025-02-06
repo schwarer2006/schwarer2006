@@ -176,6 +176,7 @@
 - **PowerBI Onlinetraining**
 - **SQL Developer GFU**
 - **GIT Schulung mit Zertifikat**
+- **Tagetik Schulung mit Zertifikat**
 
 ---
 
